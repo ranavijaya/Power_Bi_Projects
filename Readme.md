@@ -10,7 +10,7 @@ The Power BI dashboard consists of four main pages. Each of these components ser
 ---
 ### 1. Summary Page
 
-![Alt Text](Images/Capture1.png)
+![Alt Text](./Images/Capture1.png)
 
 The Summary Page provides a comprehensive overview of various metrics and analyses related to customer ratings and product perception. It offers insights into customer preferences, price analysis, and the impact of discounts on ratings. The page features the following components:
 
